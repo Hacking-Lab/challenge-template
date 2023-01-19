@@ -19,7 +19,7 @@ Please edit every *.md file in this project (except the README.md)
 ├── images
 │   └── Overview.png
 └── teacher-grading
-    └── gradming.md
+    └── grading.md
 
 5 directories, 10 files
 ```
