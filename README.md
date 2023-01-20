@@ -2,7 +2,7 @@
 
 This project contains files and information required to create a Hacking-Lab challenge
 
-Please edit every *.md file in this project (except the README.md)
+Please edit every *.md file in this project (except the README.md and _howto.md)
 
 ```
 .
@@ -25,6 +25,7 @@ Please edit every *.md file in this project (except the README.md)
 ```
 
 # Next Step
-Please make a ZIP / tar.gz of this project (once completely filled-out) and send it to Hacking-Lab
+Please make a ZIP / tar.gz of this project (once completely filled-out) and send it to Hacking-Lab or create a private Git repo somewhere and invite us to read your content. 
+
 
 
